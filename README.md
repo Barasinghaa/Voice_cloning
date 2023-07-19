@@ -23,3 +23,5 @@ If you plan to code or train models, clone 🐸TTS and install it locally.
 git clone https://github.com/coqui-ai/TTS
 
 pip install -e .[all,dev,notebooks]  # Select the relevant extras
+
+pip
